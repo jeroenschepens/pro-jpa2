@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>pro-jpa2-chapter2</artifactId>
+    <name>Pro JPA 2 code examples - Chapter 2</name>
 
     <dependencies>
 

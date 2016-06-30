@@ -7,6 +7,7 @@
     <artifactId>pro-jpa2</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>Pro JPA 2 code examples</name>
 
     <modules>
         <module>pro-jpa2-chapter2</module>
