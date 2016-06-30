@@ -1,7 +1,7 @@
-package nl.jeroenschepens.projpa;
+package nl.jeroenschepens.pro.jpa2;
 
-import nl.jeroenschepens.projpa.domain.Employee;
-import nl.jeroenschepens.projpa.service.EmployeeService;
+import nl.jeroenschepens.pro.jpa2.service.EmployeeService;
+import nl.jeroenschepens.pro.jpa2.domain.Employee;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
